@@ -1,6 +1,7 @@
 import { Estudiante } from './Estudiante';
 
 // Subclase para representar un estudiante virtual
+
 export class EstudianteVirtual extends Estudiante {
     constructor(
         id: number,

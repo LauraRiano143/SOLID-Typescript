@@ -1,6 +1,7 @@
 import { Estudiante } from './Estudiante';
 
 // Subclase para representar un estudiante presencial
+
 export class EstudiantePresencial extends Estudiante {
     constructor(
         id: number,

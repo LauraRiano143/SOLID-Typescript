@@ -1,4 +1,5 @@
 // Clase base para representar un estudiante
+
 export class Estudiante {
     constructor(
         public id: number,

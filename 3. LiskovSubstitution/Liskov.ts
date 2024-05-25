@@ -19,6 +19,7 @@ import { EstudiantePresencial } from './EstudiantePresencial';
 import { EstudianteVirtual } from './EstudianteVirtual';
 
 // Función que recibe cualquier tipo de estudiante y muestra sus detalles
+
 function mostrarDetallesEstudiante(estudiante: Estudiante): void {
     console.log(estudiante.obtenerDetalles());
 
